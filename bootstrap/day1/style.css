@@ -1,0 +1,16 @@
+.ar{
+    border: 2px solid green;
+    width: 50%;
+    box-sizing: border-box;
+
+}
+
+
+.container-md{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 2px;
+    background-color: aquamarine;
+
+} 
